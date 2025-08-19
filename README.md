@@ -1,4 +1,4 @@
-# Pyautogui Cria Ex
+# Automação que cria exercícios automaticamente
 
 Este projeto utiliza a biblioteca PyAutoGUI para automação de tarefas com o mouse e teclado no Windows.
 
